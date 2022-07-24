@@ -13,7 +13,7 @@ body {
 
 .resume-box {
   width: 800px;
-  height: 1000px;
+  height: auto;
   margin: 70px auto;
   background: white;
   box-shadow: 5px 21px 20px 20px rgb(168, 155, 155);
@@ -116,7 +116,7 @@ body {
   background: white;
   width: 68%;
   float: left;
-  height: 1000px;
+  height: auto;
 }
 .right-heading img {
   background: rgb(144, 144, 218);
